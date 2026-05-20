@@ -1,0 +1,13 @@
+Debug/
+.theia/
+
+*.d
+*.o
+*.opt
+*.out
+*.map
+*.genlibs
+*_linkInfo.xml
+Event.dot
+
+README.html
