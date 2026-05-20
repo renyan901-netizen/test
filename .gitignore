@@ -1,0 +1,17 @@
+# CCS Build Outputs
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.d
+*.out
+*.map
+*.hex
+*.bin
+*.elf
+*.axf
+
+# Temporary and local files
+*~
+.dep/
+.DS_Store
+Thumbs.db
