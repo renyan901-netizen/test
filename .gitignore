@@ -1,7 +1,11 @@
 # CCS Build Outputs
 [Dd]ebug/
 [Rr]elease/
+.theia/
+/Debug/
+/targetConfigs/
 *.obj
+*.o
 *.d
 *.out
 *.map
@@ -9,6 +13,10 @@
 *.bin
 *.elf
 *.axf
+*.opt
+*.genlibs
+*_linkInfo.xml
+Event.dot
 
 # Temporary and local files
 *~
