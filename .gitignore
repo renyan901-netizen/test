@@ -2,8 +2,6 @@
 [Dd]ebug/
 [Rr]elease/
 .theia/
-/Debug/
-/targetConfigs/
 *.obj
 *.o
 *.d
